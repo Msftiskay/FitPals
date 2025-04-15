@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">FitFriend</string>
+
+    <!-- Login and Register -->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Full Name</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_forgot_password">Forgot Password?</string>
+    <string name="btn_link_to_register">Not a member? Sign up now</string>
+    <string name="btn_link_to_login">Already have an account? Login</string>
+
+    <!-- Main Navigation -->
+    <string name="title_home">Home</string>
+    <string name="title_workouts">Workouts</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- Workouts -->
+    <string name="create_workout">Create Workout</string>
+    <string name="workout_title">Title</string>
+    <string name="workout_description">Description</string>
+    <string name="add_exercise">Add Exercise</string>
+    <string name="save_workout">Save Workout</string>
+    <string name="sets">Sets</string>
+    <string name="reps">Reps</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="rest_time">Rest Time (seconds)</string>
+    <string name="start_workout">Start Workout</string>
+    <string name="invite_friend">Invite Friend</string>
+
+    <!-- Joint Workouts -->
+    <string name="joint_workout_invites">Joint Workout Invites</string>
+    <string name="accept_invite">Accept</string>
+    <string name="decline_invite">Decline</string>
+    <string name="no_invites">No invites yet</string>
+
+    <!-- Friends -->
+    <string name="add_friend">Add Friend</string>
+    <string name="friend_requests">Friend Requests</string>
+    <string name="search_friends">Search Friends</string>
+    <string name="no_friends">No friends yet. Add friends to workout together!</string>
+
+    <!-- Profile -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout">Logout</string>
+    <string name="total_workouts">Total Workouts</string>
+    <string name="total_calories">Total Calories Burned</string>
+    <string name="total_duration">Total Workout Duration (min)</string>
+
+    <!-- Common -->
+    <string name="welcome">Welcome</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>
