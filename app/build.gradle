@@ -47,7 +47,6 @@ configurations.all {
 }
 
 dependencies {
-    // Kotlin core libraries - ensure a consistent version
     implementation "org.jetbrains.kotlin:kotlin-stdlib:2.1.0"
 
     implementation 'androidx.appcompat:appcompat:1.6.1'
